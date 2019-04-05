@@ -1,0 +1,11 @@
+{
+  "name": "stylelint-config-audentio",
+  "version": "1.0.0",
+  "description": "Audentio stylelint config",
+  "main": "index.js",
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "Audentio",
+  "license": "MIT"
+}
