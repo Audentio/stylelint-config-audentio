@@ -1,8 +1,8 @@
-#### Setup (skip if using kinetic)
+#### Setup 
 
-*Install*: `yarn add stylelint-config-audentio`
+**Install** (skip if using kinetic): `yarn add stylelint-config-audentio`
 
-*Usage*: Add this `.stylelintrc` in root of your project:
+**Usage**: Add this `.stylelintrc` in root of your project:
 
 ```json
 {
