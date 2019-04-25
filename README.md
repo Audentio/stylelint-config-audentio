@@ -1,4 +1,4 @@
-#### Setup 
+## Setup 
 
 **Install** (skip if using kinetic): `yarn add stylelint-config-audentio`
 
