@@ -1,11 +1,12 @@
 module.exports = {
     "extends": "stylelint-config-standard",
-    "ignoreFiles": ["**/*.js", "**/*.ts", "**/*.tsx", "**/*.jsx"],
+    "ignoreFiles": ["**/*.js", "**/*.ts", "**/*.tsx"],
     "rules": {
         "at-rule-no-unknown": [
             true,
             {
                 "ignoreAtRules": [
+                    "for",
                     "extend",
                     "include",
                     "import",
